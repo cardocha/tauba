@@ -1,0 +1,1 @@
+curl -X PUT -H 'Authorization: Bearer token123' -H 'Content-Type: application/json' -d '{"key1":"updated_value1","key2":"updated_value2"}' 'https://httpbin.org/put'
