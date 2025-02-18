@@ -1,1 +1,0 @@
-curl -X DELETE -H 'Authorization: Bearer token123' -H 'Accept: application/json' 'https://httpbin.org/delete'
